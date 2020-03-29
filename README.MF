@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-luban is old man 5
-=======
 luban is old man 6
 
